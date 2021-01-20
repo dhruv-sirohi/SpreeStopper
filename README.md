@@ -9,7 +9,7 @@ The extension injects JavaScript that finds item price on Amazon and converts it
 
 2. Cooldown Timer: Sets a 75 second cooldown timer for the 'Add to Cart' and 'Buy Now' buttons. As the user considers the value of this purchase, System 2 thinking is activated, allowing for rational and non-impulse driven decision making.
 
-## Upcoming Features:
+## Additional Features:
 
 1. Graphical Interface: Professional UI written using React
 
