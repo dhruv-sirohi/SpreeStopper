@@ -21,4 +21,4 @@ The extension injects JavaScript that finds item price on Amazon and converts it
 
 5. Expanding to other online stores
 
-While the core features are fully functional, these additonal features are currently still in development. 
+While the core features are fully functional for this proof of concept, additonal features are currently still in development. 
